@@ -1,0 +1,79 @@
+{
+  "Vitamine": [
+    {
+      "id": 1,
+      "title": "Colecalciferolo",
+      "prezzo": "19.990",
+      "capsule":100,
+      "dose":1,
+    },
+    {
+      "id": 2,
+      "title": "Vitamina K",
+      "prezzo": "21.550",
+      "capsule":100,
+      "dose":1,
+    },
+    {
+      "id": 3,
+      "title": "Vitamina B12",
+      "prezzo": "14.999",
+      "capsule":340,
+      "dose":2,
+    },
+    {
+      "id": 4,
+      "title": "Biotina",
+      "prezzo": "11.999",
+      "capsule":410,
+      "dose":3,
+    }
+  ],
+  "Minerali": [
+    {
+      "id": 1,
+       "title": "Magnesio",
+      "prezzo": "15.999",
+      "capsule": "500",
+      "dose":10,
+    },
+    {
+      "id": 2,
+       "title": "Calcio",
+      "prezzo": "15.999",
+      "capsule": "100",
+      "dose":5,
+    },
+    {
+      "id": 3,
+       "title": "Calcio, Magnesio e Zinco",
+      "prezzo": "13.911",
+      "capsule": "60",
+      "dose":3,
+    },
+    {
+      "id": 4,
+       "title": "Ferro",
+      "prezzo": "17.698",
+      "capsule": "100",
+      "dose":4,
+    },
+  ],
+   "Acidi Grassi Essenziali": [
+    {
+      "id": 1,
+       "title": "Omega 3",
+      "prezzo": "17.228",
+      "capsule": "100",
+      "dose":2,
+    },
+    {
+      "id": 1,
+       "title": "Omega 6",
+      "prezzo": "12.448",
+      "capsule": "300",
+      "dose":3,
+    },
+   
+   ]
+}
