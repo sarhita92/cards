@@ -19,7 +19,7 @@
         {
             "id": 3,
             "nome": "Vitamina B12",
-            "prezzo": "14999",
+            "prezzo": "14990",
             "capsule": 340,
             "dose": 2,
             "rating": 4
@@ -27,7 +27,7 @@
         {
             "id": 4,
             "nome": "Vitamina A",
-            "prezzo": "11999",
+            "prezzo": "11990",
             "capsule": 410,
             "dose": 3,
             "rating": 2
@@ -45,7 +45,7 @@
         {
             "id": 1,
             "nome": "Magnesio",
-            "prezzo": "15999",
+            "prezzo": "15990",
             "capsule": "500",
             "dose": 10,
             "rating": 5
@@ -53,7 +53,7 @@
         {
             "id": 2,
             "nome": "Calcio",
-            "prezzo": "15999",
+            "prezzo": "15990",
             "capsule": "100",
             "dose": 5,
             "rating": 1
@@ -61,7 +61,7 @@
         {
             "id": 3,
             "nome": "Zinco",
-            "prezzo": "13911",
+            "prezzo": "13910,
             "capsule": "60",
             "dose": 3,
             "rating": 4
@@ -69,7 +69,7 @@
         {
             "id": 4,
             "nome": "Ferro",
-            "prezzo": "17698",
+            "prezzo": "17690",
             "capsule": "100",
             "dose": 4,
             "rating": 2
@@ -77,7 +77,7 @@
         {
             "id": 5,
             "nome": "Iodio",
-            "prezzo": "29198",
+            "prezzo": "29190",
             "capsule": "322",
             "dose": 12,
             "rating": 2
@@ -85,7 +85,7 @@
         {
             "id": 6,
             "nome": "Selenio",
-            "prezzo": "38125",
+            "prezzo": "38120",
             "capsule": "200",
             "dose": 10,
             "rating": 3
@@ -95,7 +95,7 @@
         {
             "id": 1,
             "nome": "Omega 3",
-            "prezzo": "17228",
+            "prezzo": "17220",
             "capsule": "100",
             "dose": 2,
             "rating": 4
@@ -103,7 +103,7 @@
         {
             "id": 2,
             "nome": "Omega 6",
-            "prezzo": "12448",
+            "prezzo": "12440",
             "capsule": "300",
             "dose": 2,
             "rating": 2
