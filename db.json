@@ -1,129 +1,128 @@
 {
-  "Vitamine": [
-    {
-      "id": 1,
-      "nome": "Colecalciferolo",
-      "prezzo": "19990",
-      "capsule":100,
-      "dose":1,
-      "rating":5,
-      
-    },
-    {
-      "id": 2,
-      "nome": "Vitamina K",
-      "prezzo": "21550",
-      "capsule":100,
-      "dose":1,
-      "rating":4,
-    },
-    {
-      "id": 3,
-      "nome": "Vitamina B12",
-      "prezzo": "14999",
-      "capsule":340,
-      "dose":2,
-      "rating":4,
-    },
-    {
-      "id": 4,
-      "nome": "Vitamina A",
-      "prezzo": "11999",
-      "capsule":410,
-      "dose":3,
-      "rating":2,
-    },    
-    {
-      "id": 4,
-      "nome": "Vitamina C",
-      "prezzo": "14500",
-      "capsule":410,
-      "dose":3,
-      "rating":4,
-    },
-  ],
-  "Minerali": [
-    {
-      "id": 1,
-       "nome": "Magnesio",
-      "prezzo": "15999",
-      "capsule": "500",
-      "dose":10,
-      "rating":5,
-    },
-    {
-      "id": 2,
-       "nome": "Calcio",
-      "prezzo": "15999",
-      "capsule": "100",
-      "dose":5,
-      "rating":1,
-    },
-    {
-      "id": 3,
-       "nome": "Zinco",
-      "prezzo": "13911",
-      "capsule": "60",
-      "dose":3,
-      "rating":4,
-    },
-    {
-      "id": 4,
-       "nome": "Ferro",
-      "prezzo": "17698",
-      "capsule": "100",
-      "dose":4,
-      "rating":2,
-    },
-    {
-      "id": 5,
-       "nome": "Iodio",
-      "prezzo": "29198",
-      "capsule": "322",
-      "dose":12,
-      "rating":2,
-    },
-    {
-      "id": 6,
-       "nome": "Selenio",
-      "prezzo": "38125",
-      "capsule": "200",
-      "dose":10,
-      "rating":3,
-    },
-  ],
-   "Acidi Grassi Essenziali": [
-      {
-        "id": 1,
-         "nome": "Omega 3",
-        "prezzo": "17228",
-        "capsule": "100",
-        "dose":2,
-        "rating":4,
-      },
-      {
-        "id": 2,
-         "nome": "Omega 6",
-        "prezzo": "12448",
-        "capsule": "300",
-        "dose":2,
-        "rating":2,
-      },
-      {
-        "id": 2,
-         "nome": "Omega 7",
-        "prezzo": "18000",
-        "capsule": "50",
-        "dose":1,
-        "rating":3,
-      },
-      {
-        "id": 2,
-         "nome": "Olio di Pesce",
-        "prezzo": "26490",
-        "capsule": "120",
-        "dose":2,
-        "rating":2,
-      },
-   ]
+    "Vitamine": [
+        {
+            "id": 1,
+            "nome": "Colecalciferolo",
+            "prezzo": "19990",
+            "capsule": 100,
+            "dose": 1,
+            "rating": 5
+        },
+        {
+            "id": 2,
+            "nome": "Vitamina K",
+            "prezzo": "21550",
+            "capsule": 100,
+            "dose": 1,
+            "rating": 4
+        },
+        {
+            "id": 3,
+            "nome": "Vitamina B12",
+            "prezzo": "14999",
+            "capsule": 340,
+            "dose": 2,
+            "rating": 4
+        },
+        {
+            "id": 4,
+            "nome": "Vitamina A",
+            "prezzo": "11999",
+            "capsule": 410,
+            "dose": 3,
+            "rating": 2
+        },
+        {
+            "id": 4,
+            "nome": "Vitamina C",
+            "prezzo": "14500",
+            "capsule": 410,
+            "dose": 3,
+            "rating": 4
+        }
+    ],
+    "Minerali": [
+        {
+            "id": 1,
+            "nome": "Magnesio",
+            "prezzo": "15999",
+            "capsule": "500",
+            "dose": 10,
+            "rating": 5
+        },
+        {
+            "id": 2,
+            "nome": "Calcio",
+            "prezzo": "15999",
+            "capsule": "100",
+            "dose": 5,
+            "rating": 1
+        },
+        {
+            "id": 3,
+            "nome": "Zinco",
+            "prezzo": "13911",
+            "capsule": "60",
+            "dose": 3,
+            "rating": 4
+        },
+        {
+            "id": 4,
+            "nome": "Ferro",
+            "prezzo": "17698",
+            "capsule": "100",
+            "dose": 4,
+            "rating": 2
+        },
+        {
+            "id": 5,
+            "nome": "Iodio",
+            "prezzo": "29198",
+            "capsule": "322",
+            "dose": 12,
+            "rating": 2
+        },
+        {
+            "id": 6,
+            "nome": "Selenio",
+            "prezzo": "38125",
+            "capsule": "200",
+            "dose": 10,
+            "rating": 3
+        }
+    ],
+    "Acidi Grassi Essenziali": [
+        {
+            "id": 1,
+            "nome": "Omega 3",
+            "prezzo": "17228",
+            "capsule": "100",
+            "dose": 2,
+            "rating": 4
+        },
+        {
+            "id": 2,
+            "nome": "Omega 6",
+            "prezzo": "12448",
+            "capsule": "300",
+            "dose": 2,
+            "rating": 2
+        },
+        {
+            "id": 2,
+            "nome": "Omega 7",
+            "prezzo": "18000",
+            "capsule": "50",
+            "dose": 1,
+            "rating": 3
+        },
+        {
+            "id": 2,
+            "nome": "Olio di Pesce",
+            "prezzo": "26490",
+            "capsule": "120",
+            "dose": 2,
+            "rating": 2
+        }
+    ]
 }
