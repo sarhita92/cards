@@ -33,7 +33,7 @@
             "rating": 2
         },
         {
-            "id": 4,
+            "id": 5,
             "nome": "Vitamina C",
             "prezzo": 4000,
             "capsule": 10,
@@ -109,7 +109,7 @@
             "rating": 2
         },
         {
-            "id": 2,
+            "id": 3,
             "nome": "Omega 7",
             "prezzo": 18000,
             "capsule": "50",
@@ -117,7 +117,7 @@
             "rating": 3
         },
         {
-            "id": 2,
+            "id": 4,
             "nome": "Olio di Pesce",
             "prezzo": 26490,
             "capsule": "120",
