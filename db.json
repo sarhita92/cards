@@ -4,7 +4,7 @@
             "id": 1,
             "nome": "Colecalciferolo",
             "prezzo": 19990,
-            "capsule": 100,
+            "capsule": "100",
             "dose": 1,
             "rating": 5
         },
@@ -12,7 +12,7 @@
             "id": 2,
             "nome": "Vitamina K",
             "prezzo": 21550,
-            "capsule": 100,
+            "capsule": "100",
             "dose": 1,
             "rating": 4
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "nome": "Vitamina B12",
             "prezzo": 14990,
-            "capsule": 340,
+            "capsule": "340",
             "dose": 2,
             "rating": 4
         },
@@ -28,7 +28,7 @@
             "id": 4,
             "nome": "Vitamina A",
             "prezzo": 11990,
-            "capsule": 8410,
+            "capsule": "840",
             "dose": 3,
             "rating": 2
         },
@@ -36,7 +36,7 @@
             "id": 5,
             "nome": "Vitamina C",
             "prezzo": 4000,
-            "capsule": 10,
+            "capsule": "10",
             "dose": 1,
             "rating": 4
         }
