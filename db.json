@@ -1,3 +1,39 @@
 {
-   "pippo": 2
+   "scratchCards":{
+      "leaderboardName":"LeaderboardAugust",
+      "leaderboardCode":"LeaderboardAugust",
+      "nickname":"5001-1450",
+      "cards":[
+         {
+            "cardId":22720,
+            "classOfCards":"GOLD",
+            "points":0,
+            "status":"Expired",
+            "lastUpdate":"2020-09-30T08:36:33.217+0200",
+            "creationDate":"2020-09-29T16:35:32.508+0200",
+            "expiringDate":"2020-09-30T04:35:32.508+0200",
+            "milestone":"Milestone for total amount spent and amount spent is 15000 or  more than 15000"
+         },
+         {
+            "cardId":21615,
+            "classOfCards":"SILVER",
+            "points":0,
+            "status":"Expired",
+            "lastUpdate":"2020-09-30T08:36:33.217+0200",
+            "creationDate":"2020-09-29T15:11:33.281+0200",
+            "expiringDate":"2020-09-30T03:11:33.281+0200",
+            "milestone":"Milestone for total amount spent and amount spent is between 5000 and 10000"
+         },
+         {
+            "cardId":19809,
+            "classOfCards":"SILVER",
+            "points":0,
+            "status":"Expired",
+            "lastUpdate":"2020-09-30T08:36:33.217+0200",
+            "creationDate":"2020-09-29T10:23:33.261+0200",
+            "expiringDate":"2020-09-29T22:23:33.261+0200",
+            "milestone":"Milestone for total amount spent and amount spent is between 5000 and 10000"
+         }
+      ]
+   }
 }
