@@ -22,7 +22,7 @@
             "lastUpdate":"2020-09-30T08:36:33.217+0200",
             "creationDate":"2020-09-29T15:11:33.281+0200",
             "expiringDate":"2020-09-30T03:11:33.281+0200",
-            "milestone":"Milestone for total amount spent and amount spent is between 5000 and 10000"
+            "milestone":"Milestone for total amount spent and amount spent is between 15000 and 20000"
          },
          {
             "cardId":19809,
@@ -62,7 +62,7 @@
             "lastUpdate":"2020-09-30T08:36:33.217+0200",
             "creationDate":"2020-09-29T10:23:33.261+0200",
             "expiringDate":"2020-09-29T22:23:33.261+0200",
-            "milestone":"Milestone for total amount spent and amount spent is between 5000 and 10000"
+            "milestone":"Milestone for total amount spent and amount spent is between 15000 and 20000"
          }
       ]
    }
