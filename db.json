@@ -9,9 +9,9 @@
             "classOfCards":"GOLD",
             "points":0,
             "status":"Scratched",
-            "lastUpdate":"2020-09-30T08:36:33.217+0200",
-            "creationDate":"2020-09-29T16:35:32.508+0200",
-            "expiringDate":"2020-09-30T04:35:32.508+0200",
+            "lastUpdate":1612351165559,
+            "creationDate":1604028544575,
+            "expiringDate":1604071744575,
             "milestone":"Milestone for total amount spent and amount spent is 15000 or  more than 15000"
          },
          {
@@ -19,9 +19,9 @@
             "classOfCards":"SILVER",
             "points":0,
             "status":"Scratchable",
-            "lastUpdate":"2020-09-30T08:36:33.217+0200",
-            "creationDate":"2020-09-29T15:11:33.281+0200",
-            "expiringDate":"2020-09-30T03:11:33.281+0200",
+            "lastUpdate":1612351165559,
+            "creationDate":1604015943184,
+            "expiringDate":1604059143184,
             "milestone":"Milestone for total amount spent and amount spent is between 15000 and 20000"
          },
          {
@@ -29,9 +29,9 @@
             "classOfCards":"SILVER",
             "points":0,
             "status":"Scratchable",
-            "lastUpdate":"2020-09-30T08:36:33.217+0200",
-            "creationDate":"2020-09-29T10:23:33.261+0200",
-            "expiringDate":"2020-09-29T22:23:33.261+0200",
+            "lastUpdate":1612351165559,
+            "creationDate":1604015943184,
+            "expiringDate":1604059143184,
             "milestone":"Milestone for total amount spent and amount spent is between 5000 and 10000"
          },
                   {
@@ -39,9 +39,9 @@
             "classOfCards":"SILVER",
             "points":0,
             "status":"Scratchable",
-            "lastUpdate":"2020-09-30T08:36:33.217+0200",
-            "creationDate":"2020-09-29T10:23:33.261+0200",
-            "expiringDate":"2020-09-29T22:23:33.261+0200",
+            "lastUpdate":1612351165559,
+            "creationDate":1604031424788,
+            "expiringDate":1604074624788,
             "milestone":"Milestone for total amount spent and amount spent is between 5000 and 10000"
          },
                   {
@@ -49,9 +49,9 @@
             "classOfCards":"SILVER",
             "points":0,
             "status":"Expired",
-            "lastUpdate":"2020-09-30T08:36:33.217+0200",
-            "creationDate":"2020-09-29T10:23:33.261+0200",
-            "expiringDate":"2020-09-29T22:23:33.261+0200",
+            "lastUpdate":1612351165559,
+            "creationDate":1604031424788,
+            "expiringDate":1604074624788,
             "milestone":"Milestone for total amount spent and amount spent is between 5000 and 10000"
          },
                   {
@@ -59,9 +59,9 @@
             "classOfCards":"SILVER",
             "points":0,
             "status":"Scratched",
-            "lastUpdate":"2020-09-30T08:36:33.217+0200",
-            "creationDate":"2020-09-29T10:23:33.261+0200",
-            "expiringDate":"2020-09-29T22:23:33.261+0200",
+            "lastUpdate":1612351165559,
+            "creationDate":1604102711464,
+            "expiringDate":1604145911464
             "milestone":"Milestone for total amount spent and amount spent is between 15000 and 20000"
          }
       ]
