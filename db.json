@@ -15,7 +15,47 @@
             "milestone":"Milestone for total amount spent and amount spent is 15000 or  more than 15000"
          },
          {
+            "cardId":22723,
+            "classOfCards":"GOLD",
+            "points":0,
+            "status":"Scratched",
+            "lastUpdate":1612351165559,
+            "creationDate":1604028544575,
+            "expiringDate":1604071744575,
+            "milestone":"Milestone for total amount spent and amount spent is 15000 or  more than 15000"
+         },
+         {
+            "cardId":22724,
+            "classOfCards":"GOLD",
+            "points":0,
+            "status":"Scratched",
+            "lastUpdate":1612351165559,
+            "creationDate":1604028544575,
+            "expiringDate":1604071744575,
+            "milestone":"Milestone for total amount spent and amount spent is 15000 or  more than 15000"
+         },
+         {
+            "cardId":22722,
+            "classOfCards":"GOLD",
+            "points":0,
+            "status":"Scratched",
+            "lastUpdate":1612351165559,
+            "creationDate":1604028544575,
+            "expiringDate":1604071744575,
+            "milestone":"Milestone for total amount spent and amount spent is 15000 or  more than 15000"
+         },
+         {
             "cardId":21615,
+            "classOfCards":"SILVER",
+            "points":0,
+            "status":"Scratchable",
+            "lastUpdate":1612351165559,
+            "creationDate":1604015943184,
+            "expiringDate":1604059143184,
+            "milestone":"Milestone for total amount spent and amount spent is between 15000 and 20000"
+         },
+         {
+            "cardId":21616,
             "classOfCards":"SILVER",
             "points":0,
             "status":"Scratchable",
